@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 2
+  domain: mybluemix.net
+  name: blue-continous-in
+  host: blue-continous-in
+  disk_quota: 1024M
